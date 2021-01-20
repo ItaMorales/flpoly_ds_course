@@ -1,10 +1,10 @@
-## First Name Last Name
+## Isabella Morales
 
-### Term Year 
+### Spring 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
 - Course 2
 
