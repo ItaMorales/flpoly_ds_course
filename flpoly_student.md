@@ -6,7 +6,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Intro to Data Science
 
-- Course 2
+- Cloud Implementation Strategies and Cloud Providers	
 
 - Course 3
 
