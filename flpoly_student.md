@@ -22,4 +22,4 @@ I am _passionate about_:
 
 - I am passionate about gaming
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- I am passionate about STEAM
