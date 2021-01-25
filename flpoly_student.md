@@ -8,16 +8,18 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Cloud Implementation Strategies and Cloud Providers	
 
-- Course 3
+- Art Appreciation
 
-- Course 4
+- Principles of Microeconomics
+
+- Entrepreneurial Opportunity Analysis
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- I am passionate about reading
 
-- Thing 2
+- I am passionate about gaming
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
