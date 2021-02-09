@@ -23,3 +23,11 @@ I am _passionate about_:
 - I am passionate about gaming
 
 - I am passionate about STEAM
+
+| **Prefix** | **Number** |      _Name_                    | Credits |
+| :--------: |:----------:|:------------------------------:|:-------:|
+|  **COP**   |  **2073**  | _Introduction to Data Science_ |    3    |
+|  **ARH**   |  **2000**  | _Art Appreciation_             |    3    |
+|  **ECO**   |  **2023**  | _Principles of Microeconomics_ |    3    |
+|  **ENT**   |  **2073**  | _Entrepreneurial Opportunity Analysis_ |    3    |
+|  **CTS**   |  **2073**  | _Cloud Implementation Strategies and Cloud Providers_ |    3    |
